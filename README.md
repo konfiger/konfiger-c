@@ -1,4 +1,4 @@
-# <p style="text-align: center;" align="center"><img src="https://github.com/keyvaluedb/key-value-db/raw/master/icons/key-value-db-c.png" alt="key-value-db-c" style="width:300px;height:200px;" width="300" height="200" /><br /> key-value-db-c</p>
+# <p style="text-align: center;" align="center"><img src="https://github.com/keyvaluedb/keyvaluedb.github.io/raw/master/icons/key-value-db-c.png" alt="key-value-db-c" style="width:300px;height:200px;" width="300" height="200" /><br /> key-value-db-c</p>
 
 <p style="text-align: center;" align="center">Light weight package to quickly and easily manage, load, update and save key-value type database </p>
 
@@ -6,6 +6,7 @@ ___
 
 ## Table of content
 - [Installation](#installation)
+- [Example](#example)
 - [API](#api)
 	- [Creating/loading a document](#creating/loading-a-document)
 	- [Inserting data](#inserting-data)
@@ -23,6 +24,8 @@ ___
 - [License](#license)
 
 ## Installation
+
+## Example
 
 ## API
 
@@ -54,11 +57,11 @@ ___
 
 Before you begin contribution please read the contribution guide at [CONTRIBUTING GUIDE](https://keyvaluedb.github.io/contributing.html)
 
-You can open issue or file a request that only address problems in this implementation on this repo, if the issue address the concepts of the package then create an issue or rfc [here](https://github.com/keyvaluedb/key-value-db/)
+You can open issue or file a request that only address problems in this implementation on this repo, if the issue address the concepts of the package then create an issue or rfc [here](https://github.com/keyvaluedb/keyvaluedb.github.io/)
 
 **The world needs you**.
 
 ## License
 
-MIT License Copyright (c) 2019 Azeez Adewale
+MIT License Copyright (c) 2019 Adewale Azeez - keyvaluedb
 
