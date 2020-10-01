@@ -1,10 +1,16 @@
-/*!gcc {0} -I../include/ -I./include/ -I. -o out.exe; ./out.exe --cester-verbose */
+/*!gcc -ansi -pedantic {0} -I../include/ -I./include/ -I. -o out.exe; ./out.exe --cester-verbose */
 
 #include <exotic/cester.h>
 #include <konfiger_stream.h>
 
-CESTER_TEST(test_should_throw_exceptions, _,
+CESTER_COMMENT(
+    Test the KonfigerStream \n
+    All the function in the konfiger_stream.h starts \n
+    with ks_.
+)
 
+CESTER_TEST(test_should_throw_exceptions, _,
+    
 )
 
 CESTER_TEST(test_should_successfully_initialize, _,
